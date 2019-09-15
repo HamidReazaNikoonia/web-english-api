@@ -1,3 +1,3 @@
 secret = 1234567890
-path = ~/home
+paath = ~/home
 ~/nodeWebhook/hook.js
